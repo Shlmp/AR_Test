@@ -436,7 +436,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Prefabs:
-  - {fileID: 7733166449914766614, guid: 784d4e74eb0fe90459498f38a10009cf, type: 3}
+  - {fileID: 919132149155446097, guid: 9931d143128380f408ab0eff3dfa6ec7, type: 3}
 --- !u!114 &498865685
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -454,7 +454,7 @@ MonoBehaviour:
       m_Calls: []
   m_SerializedLibrary: {fileID: 11400000, guid: c315df33577b8eb42a81824515be9c4b, type: 2}
   m_MaxNumberOfMovingImages: 0
-  m_TrackedImagePrefab: {fileID: 7733166449914766614, guid: 784d4e74eb0fe90459498f38a10009cf, type: 3}
+  m_TrackedImagePrefab: {fileID: 919132149155446097, guid: 9931d143128380f408ab0eff3dfa6ec7, type: 3}
 --- !u!114 &498865686
 MonoBehaviour:
   m_ObjectHideFlags: 0
